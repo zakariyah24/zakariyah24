@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zakariyah24
 - 👀 I’m interested in Flutter and Web Development especially PHP and Javascript
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on FAANG :)
+- 💞️ I’m looking to collaborate on ... :)
 - 📫 How to reach me Instagram : @firmanpantouw
 
 <!---
